@@ -20,6 +20,8 @@ This repository has a internal model changer with FindMDL Hook for Counter-Strik
 
 * That's all, enjoy it :)
 
+<br/>
+
 ## How to add your custom model?
 * First go to "Hooks.cpp" in Source Files.
 
@@ -34,6 +36,3 @@ if (strstr(FilePath, "v_.mdl"))  //v_: Name of the model to change
 ```
 
 * That's all, enjoy it :)
-
-
-<br/>
