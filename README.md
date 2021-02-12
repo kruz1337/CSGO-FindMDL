@@ -5,7 +5,7 @@ This repository has a internal model changer with FindMDL Hook for Counter-Strik
 
 ![Image of RequestX International Developer Group on Discord](https://raw.githubusercontent.com/Kruziikrel1/CSGO-AIP/main/thumbnail.png)
 
-## How to build CS:GO AIP Project files?
+## How to build FindMDL Hook Project files?
 * First of all you should download project files on project page or clone this repository from GitBash or GitHub Desktop on your PC. [FindMDL.zip](https://github.com/Kruziikrel1/CSGO-FindMDL)
 
 * If you download project files with manual method you need extract zip file.
