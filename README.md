@@ -1,7 +1,7 @@
 # FindMDL Hook
 This repository has a internal model changer with FindMDL Hook for Counter-Strike: Global Offensive game. It's fully open source and loadable into the game as a [Dynamic-link library (DLL)](https://en.wikipedia.org/wiki/Dynamic-link_library)
 
-![](https://img.shields.io/badge/language-c++-e76089?style=plastic) ![](https://img.shields.io/badge/game-csgo-yellow?style=plastic) ![](https://img.shields.io/badge/license-MIT-green?style=plastic) ![](https://img.shields.io/badge/arch-x86-d9654f?style=plastic)
+![](https://img.shields.io/badge/language-c++-e76089?style=plastic) ![](https://img.shields.io/badge/game-csgo-yellow?style=plastic) ![](https://img.shields.io/badge/license-GNU-green?style=plastic) ![](https://img.shields.io/badge/arch-x86-d9654f?style=plastic)
 
 ![Image of RequestX International Developer Group on Discord](https://raw.githubusercontent.com/Kruziikrel1/CSGO-AIP/main/thumbnail.png)
 
