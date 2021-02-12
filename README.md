@@ -34,5 +34,3 @@ if (strstr(FilePath, "v_.mdl"))  //v_: Name of the model to change
 	sprintf(FilePath, "models/weapons/v_new_.mdl"); //v_new_: Name of the changing custom model: 
 }
 ```
-
-* That's all, enjoy it :)
