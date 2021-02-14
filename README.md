@@ -18,16 +18,12 @@ This repository has a internal model changer with FindMDL Hook for Counter-Strik
 
 * Go to the bottom heading to add your custom models.
 
-<br/>
-
 ## How to load into the game?
 * First download any [Dynamic-link library (DLL)](https://en.wikipedia.org/wiki/Dynamic-link_library) injector and open.
 
 * Then select builded [Dynamic-link library (DLL)](https://en.wikipedia.org/wiki/Dynamic-link_library) file and Inject to csgo.exe
 
 * That's all, enjoy it :)
-
-<br/>
 
 ## How to add your custom model?
 * First go to "Hooks.cpp" in Source Files.
