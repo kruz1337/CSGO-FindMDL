@@ -18,7 +18,7 @@ bool VMTManager::Initialise(DWORD* InstancePointer)
 	return true;
 }
 
-int	VMTManager::MethodCount(DWORD* InstancePointer)
+int VMTManager::MethodCount(DWORD* InstancePointer)
 {
 	DWORD* VMT = (DWORD*)*InstancePointer;
 	int Index = 0;
