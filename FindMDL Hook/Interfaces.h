@@ -1,10 +1,9 @@
 #pragma once
 
 //Includes
-#include "CommonIncludes.h"
-#include "IMDLCache.h"
-#include "offsets.h"
+#include "Offsets.h"
 #include "Interfaces.h"
+#include "IMDLCache.h"
 
 //Extern Interfaces
 namespace Interfaces
