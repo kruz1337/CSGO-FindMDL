@@ -2,12 +2,12 @@
 
 //Includes
 #include "Utilities.h"
+#include "VMTManager.h"
 
 //Extern Hooks
 namespace Hooks
 {
 	void Initialise();
 
-	extern Utilities::Memory::VMTManager VMTModelCache;
+	extern VMTManager VMTModelCache;
 };
-

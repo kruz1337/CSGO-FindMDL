@@ -10,7 +10,7 @@ MDLHandle_t __fastcall hkFindMDL(void*, void*, char*);
 //Hooks
 namespace Hooks
 {
-	Utilities::Memory::VMTManager VMTModelCache;
+	VMTManager VMTModelCache;
 };
 
 //Hooks Initialise
